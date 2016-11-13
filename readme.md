@@ -43,6 +43,11 @@ Default: `2`
 Number of spaces to treat as one tab.
 
 
+## Related
+
+- [convert-to-spaces](https://github.com/vdemedes/convert-to-spaces) - Convert tabs to spaces.
+
+
 ## License
 
 MIT © [vdemedes](https://github.com/vdemedes)
